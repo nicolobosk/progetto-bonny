@@ -12,7 +12,7 @@ L’obiettivo è mostrare come, tramite interfacce e classi, la tecnologia possa
 # Struttura del progetto
 
 ```text
-bonny-startup-ts/
+progetto-bonny/
 ├─ src/
 │  ├─ interfacce.ts   # Definizione delle interfacce IStartup, IIncentivo, ICittadino
 │  ├─ classi.ts       # Implementazione delle classi Startup, Incentivo, Cittadino
