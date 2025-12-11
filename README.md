@@ -23,3 +23,11 @@ progetto-bonny/
 ├─ package-lock.json  # Versioni bloccate delle dipendenze
 ├─ tsconfig.json      # Configurazione del compilatore TypeScript
 └─ README.md          # Documentazione del progetto
+
+# Demo online (CodePen)
+
+È disponibile anche una versione semplificata del codice in un unico file TypeScript eseguito su CodePen:
+
+ Link CodePen:  
+https://codepen.io/nicolobosk/pen/JoXzopB
+
